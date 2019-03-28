@@ -1,0 +1,2 @@
+浏览器上访问/ssmlogin
+tomcat根据web.xml的配置信息，拦截到/listCategory，将其交由dispatcherservlet处理。

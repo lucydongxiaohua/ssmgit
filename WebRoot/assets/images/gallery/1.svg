@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 1.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="65.3891in" height="39.7115in"
+		viewBox="0 0 4708.01 2859.23" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="Ifc__CustomPropsLevel" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#ptrn2-5);shape-rendering:crispEdges;stroke:#686868;stroke-linecap:butt;stroke-width:1.25}
+		.st2 {fill:#7f7f7f;font-family:黑体;font-size:1.00001em}
+		.st3 {font-family:Franklin Gothic Book;font-size:1em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<pattern id="ptrn2-5" v:fillPattern="2" v:foreground="#7e7e7e" v:foregroundOpacity="0.25" v:background="#d1d1d1"
+				v:backgroundOpacity="0.25" patternUnits="userSpaceOnUse" width="6" height="6" viewBox="0 0 64 64">
+			<image x="0" y="0" width="64" height="64" image-rendering="optimizeSpeed"
+					xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA8SURBVChTY9i1a5f9pUuXMDBIvLGx0Z4BnySIxlCALAnioyhAl0RRgE0SrgCXJFgBPkmwAnySu3btsgcAT5mhKauaQpQAAAAASUVORK5CYII="/>
+		</pattern>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="VisAecPage" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpacePrecision" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visSpaceLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceNameLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="visSpaceUseLabel" v:val="VT0(1):26"/>
+			<v:ud v:nameU="DisplayField1" v:prompt="Space label 1" v:val="VT4(Prop.Use)"/>
+			<v:ud v:nameU="DisplayField2" v:prompt="Space label 2" v:val="VT4(Prop.Name)"/>
+			<v:ud v:nameU="DisplayField3" v:prompt="Space label 3" v:val="VT4(User.visFMAreaDisplay)"/>
+			<v:ud v:nameU="DisplayField4" v:prompt="Space label 4" v:val="VT4(User.DisplayFieldDisabled)"/>
+			<v:ud v:nameU="IFCPropsInvisible" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="39.3701" v:pageScale="0.787402" v:drawingUnits="6" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="空间" v:index="0"/>
+		<g id="group214-1" transform="translate(1.25,-1.25)" v:mID="214" v:groupContext="group" v:layerMember="0">
+			<v:custProps>
+				<v:cp v:nameU="Name" v:lbl="名称" v:type="0" v:sortKey="visSpace02" v:invis="false" v:langID="2052" v:val="VT4()"/>
+				<v:cp v:nameU="LocationID" v:lbl="空间 ID" v:type="0" v:sortKey="visSpace03" v:invis="false" v:langID="2052"
+						v:val="VT4()"/>
+				<v:cp v:nameU="Department" v:lbl="部门" v:type="0" v:sortKey="visSpace04" v:invis="false" v:langID="2052"
+						v:val="VT4()"/>
+				<v:cp v:nameU="Use" v:lbl="空间使用" v:type="4" v:format="办公室;会议室;储藏室;其他" v:sortKey="visSpace01" v:invis="false"
+						v:langID="2052" v:val="VT4(办公室)"/>
+				<v:cp v:nameU="PhoneNumber" v:lbl="电话号码" v:type="0" v:sortKey="visSpace05" v:invis="false" v:langID="2052"
+						v:val="VT4()"/>
+				<v:cp v:nameU="OccupantCount" v:lbl="空间使用量" v:type="2" v:format="0" v:sortKey="visSpace06" v:invis="false"
+						v:langID="2052" v:val="VT0(0):26"/>
+				<v:cp v:nameU="OccupantCapacity" v:lbl="容量" v:type="2" v:format="0" v:sortKey="visSpace07" v:invis="false"
+						v:langID="2052" v:val="VT0(0):26"/>
+				<v:cp v:nameU="ID" v:lbl="ID" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+				<v:cp v:nameU="BelongsTo" v:lbl="属于" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+				<v:cp v:nameU="Modify" v:lbl="修改日期" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(位置)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(空间)"/>
+				<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+				<v:cp v:nameU="SpaceHeight" v:lbl="空间高度" v:type="2" v:sortKey="visSpace08" v:invis="false" v:langID="2052"/>
+				<v:cp v:nameU="Zones" v:lbl="区域" v:type="0" v:sortKey="visSpace15" v:invis="true" v:langID="2052"/>
+				<v:cp v:nameU="visArea" v:lbl="计算的面积" v:type="2" v:sortKey="visSpace16" v:invis="true" v:langID="2052"
+						v:val="VT16(9M^2):42"/>
+				<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visSpace09" v:invis="false" v:langID="2052"/>
+				<v:cp v:nameU="Zones" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+				<v:cp v:nameU="visArea" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT16(4182M^2):42"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visFMArea" v:prompt="" v:val="VT0(13950.027900056):26"/>
+				<v:ud v:nameU="visFMAreaDisplay" v:val="VT4(9.0 sq. m.)"/>
+				<v:ud v:nameU="visFMAutoSpace" v:val="VT0(236.22047244094):24"/>
+				<v:ud v:nameU="visSqUnits" v:prompt="sq ft;sq m;sq mm;sq cm;;hectare;sq km;sq in;sq yd;acre;sq mi"
+						v:val="VT4(sq m)"/>
+				<v:ud v:nameU="visObjectType" v:prompt="Space" v:val="VT0(104):26"/>
+				<v:ud v:nameU="visFMNameDisplay" v:val="VT4()"/>
+				<v:ud v:nameU="visFMAreaPrec" v:prompt="0 uu;0.0 uu;0.00 uu;0.000 uu;0.0000 uu" v:val="VT4(0.0 uu)"/>
+				<v:ud v:nameU="visFMUseDisplay" v:val="VT4(办公室)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="位置" v:val="VT0(5):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="空间" v:val="VT0(38):26"/>
+				<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				<v:ud v:nameU="DisplayField1Sync" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DisplayField2Sync" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DisplayField3Sync" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DisplayField4Sync" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DisplayFieldDisabled" v:val="VT4()"/>
+				<v:ud v:nameU="visFMArea" v:prompt="" v:val="VT0(6482618.7164634):26"/>
+				<v:ud v:nameU="visFMAreaDisplay" v:prompt="" v:val="VT4(4182 平方米)"/>
+				<v:ud v:nameU="visFMAutoSpace" v:prompt="" v:val="VT0(5251.5540820555):1"/>
+				<v:ud v:nameU="visFMAreaPrec" v:prompt="" v:val="VT4(0 uu)"/>
+				<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(50):26"/>
+			</v:userDefs>
+			<title>空间.27</title>
+			<g id="shape214-2" v:mID="214" v:groupContext="groupContent" v:layerMember="0">
+				<rect x="0" y="2.49997" width="4705.51" height="2856.73" class="st1"/>
+			</g>
+			<g id="shape215-6" v:mID="215" v:groupContext="shape" v:layerMember="0">
+				<title>工作表.215</title>
+				<v:userDefs>
+					<v:ud v:nameU="HasText" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="2352.76" cy="740.376" width="78.16" height="67.6996"/>
+				<text x="2334.76" y="722.11" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>办公室<v:newlineChar/><v:newlineChar/><tspan
+							x="2319.18" dy="2.487em" class="st3">4182 </tspan>平方米<v:newlineChar/></text>			</g>
+		</g>
+	</g>
+</svg>

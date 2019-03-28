@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">  
+  
+<mapper namespace="com.ssmlogin.dao.LocationDao">  
+      
+    <!--注意sql语句没有分号结尾  -->  
+     
+     <select id="findArea"  resultType="Location">  
+      select areaid,x,y,width,height from tb_location as a  where a.area=(select tb_data.value from tb_data where tb_data.port='6008'and tb_data.id =  (select MAX(id)from tb_data ))
+    </select>
+    <insert id="sendCommand" parameterType="Command"  >
+		insert into tb_date_t(user,device,name,macip,command,state) values(#{user}, #{device},#{name}, #{macip},#{command},#{state})
+	</insert>
+	<update id="sendCommand0"  >
+	    update tb_date_t set state=2 where state=0
+	</update>
+</mapper>  
